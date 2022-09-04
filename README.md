@@ -10,6 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="C logo" width="50" height="50"/>
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassant147"/>
 
