@@ -2,7 +2,7 @@
 
 ## 🌐 A Multifaceted Full-Stack Developer & Mobile App Virtuoso
 
-### 📍 Currently Based in [Your Location]
+### 📍 Currently Based in Islamabad.
 
 ---
 
