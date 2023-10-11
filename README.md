@@ -35,10 +35,10 @@
 
 ### 💡 Let's Foster Synergy!
 - **LinkedIn**: [Hassan Tahir](https://www.linkedin.com/in/hassan-tahir-8576b2203/)
-- **Email**: example@gmail.com
-- **Portfolio**: [Portfolio Link](#)
+- **Email**: hassan.tahir1471@gmail.com
+<!--- **Portfolio**: [Portfolio Link](#)
 - **Blog**: [Blog Link](#)
-- **Resume**: [Resume Link](#)
+- **Resume**: [Resume Link](#) -->
 
 ---
 
