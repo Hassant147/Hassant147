@@ -1,18 +1,46 @@
-- 👋 Hi, I’m @Hassant147
-- 👀 I’m interested in Mobile application development...
-- 🌱 I’m a Flutter Developer
-- 💞️ I’m looking to collaborate on Mobile app development...
-- 📫 How to reach me https://www.linkedin.com/in/hassan-tahir-8576b2203/
+# Hello, World! I'm Hassan Tahir 👋
 
-<!---
-Hassant147/Hassant147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter logo" width="50" height="50"/>&nbsp;<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase logo" width="50" height="50"/>&nbsp;<img 
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="C logo" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="C logo" width="50" height="50"/>
+## 🌐 A Multifaceted Full-Stack Developer & Mobile App Virtuoso
 
+### 📍 Currently Based in [Your Location]
 
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassant147"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassant147"/>
+### 🛠️ Master of an Array of Cutting-Edge Technologies
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔍 Currently Immersed In
+- Delving into the cryptographic realms of **Blockchain Technologies**.
+- Constructing secure and efficient **Decentralized Applications (DApps)**.
+- Architecting **scalable & resilient backend services**.
+
+---
+
+### 🎯 Exemplary Repositories
+- **[Blog App for Next.js](https://github.com/Hassant147/blog-app-for-next.js)** - A robust blogging platform utilizing Next.js.
+- **[Cedric CRM](https://github.com/Hassant147/Cedric-CRM)** - A full-fledged CRM solution with MERN stack and MySQL branches.
+- **[CMJ Buggy](https://github.com/Hassant147/CMJ-buggy)** - A frontend marvel built with React.js.
+- **[Projects](https://github.com/Hassant147/Projects)** - An eclectic collection of mobile applications empowered by Flutter and Firebase.
+
+---
+
+### 💡 Let's Foster Synergy!
+- **LinkedIn**: [Hassan Tahir](https://www.linkedin.com/in/hassan-tahir-8576b2203/)
+- **Email**: example@gmail.com
+- **Portfolio**: [Portfolio Link](#)
+- **Blog**: [Blog Link](#)
+- **Resume**: [Resume Link](#)
+
+---
+
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassant147&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassant147&layout=compact)
